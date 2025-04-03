@@ -44,5 +44,5 @@ The interactivity in the second plot (temporal line chart) allows users to selec
 
 <div style="margin-top: 20px;">
     <a href="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv" target="_blank" style="padding:10px 20px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px;">The Data</a>
-    <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/hw5_notebook.ipynb" target="_blank" style="padding:10px 20px; background-color:#28a745; color:white; text-decoration:none; border-radius:5px; margin-left: 10px;">The Analysis</a>
+    <a href="https://github.com/LantingFang/hw5/blob/main/hw5_notebook.ipynb" target="_blank" style="padding:10px 20px; background-color:#28a745; color:white; text-decoration:none; border-radius:5px; margin-left: 10px;">The Analysis</a>
 </div>
